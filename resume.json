@@ -1,63 +1,109 @@
 {
-	"name" : "Homer Jay Simpson",
-	"contact" : "chunkylover53@aol.com",
-	"title" : "Safety Inspector",
-	"objective" : "To be happy.",
-	"aboutme" : "I love beer, doughnuts, and all things fried.",
+	"name" : "Peter Newell",
+	"contact" : "petersgrandadventure@gmail.com",
+	"title" : "Technowizard",
+	"objective" : "To make the world a more connected and loving place.",
+	"aboutme" : "I'm a technology loving entrepreneur, dad, mystic, using my background in custom software development and technology integration to make this world a more connected and loving place.",
 	"social" : [
 		{
-			"link" : "http://www.linkedin.com/in/homerjsimpson",
+			"link" : "http://www.linkedin.com/profile/view?id=7799667",
 			"name" : "LinkedIn"
 		},
 		{
-			"link" : "https://twitter.com/HomerJSimpson",
+			"link" : "https://twitter.com/PeterANewell",
 			"name" : "twitter"
 		},
 		{
-			"link" : "https://github.com/bittersweetryan/jsonmue",
-			"name" : "this.source"
+			"link" : "http://www.srslysoftware.com",
+			"name" : "website"
 		}
 	],
 	"skills" : [
-		"Eating",
-		"Sleeping",
-		"Bowling"
+		"Web Development",
+		"Virtual World Development",
+		"Learning new technologies",
+		"Technology Integration"
 	],
 	"frameworks" : [
-		"D'oh! What's a framework?"
+		"Knockout, JQuery, WCF, PHP"
 	],
 	"projects" : [
 		{
-			"name" : "Boxcar Racer",
-			"technologies" : "wood, and plastic",
-			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+			"name" : "Oculus Brain Hacks",
+			"technologies" : "Oculus Rift", "THREE.js"
+			"description" : "Exploring virtual reality technologies with brain hacks (Gabor Patches, Ganzfeld Effects, Binaural Beats)"
+		},
+		{
+			"name" : "Bright Neighbor",
+			"technologies" : "HTML5", "JQuery","KnockoutJS", "PhoneGap"
+			"description" : "Connecting the various Sharing Economy sites for greater awesome"
 		}
+
 	],
 	"experience" : [
 		{
-			"company" : "Springfield Nuclear",
+			"company" : "NVUS Web Design",
 			"link" : "",
-			"title" : "Safety Inspector",
-			"startDate" : "1989",
-			"endDate" : "Present",
-			"responsibilities" : "Build high quality web applications using JavaScript, Java, ColdFusion for our clients. I also evaluate and educate the development team on new techniques and technologies. High-level application design including technologies, frameworks, and coding practices.",
-			"achievements" : "Introduced unit testing, continuous integration, source control, and development best practices to the team.  Started the Lunch and Learn program where team members teach each other new technologies and techniques. Lead development teams of up to 5 developers on profitable development projects."
+			"title" : "Partner",
+			"startDate" : "2001",
+			"endDate" : "2005",
+			"responsibilities" : "Built interactive websites using Flash."
+		},{
+			"company" : "Denim Group",
+			"link" : "http://www.denimgroup.com",
+			"title" : "Consultant",
+			"startDate" : "2003",
+			"endDate" : "2007",
+			"responsibilities" : "Secure custom web application development"
+		},{
+			"company" : "Metaversatility",
+			"link" : "http://www.metaversatility.com",
+			"title" : "Cofounder & CEO",
+			"startDate" : "2006",
+			"endDate" : "2010",
+			"responsibilities" : "Virtual world content and technology innovation"
+		},{
+			"company" : "Wayfair",
+			"link" : "http://www.wayfair.com",
+			"title" : "Senior Software Engineer",
+			"startDate" : "2010",
+			"endDate" : "2013",
+			"responsibilities" : "Large scale web development, search and recommendations research, web services for performance scaling, high visibility customer features, API integration."
+		},{
+			"company" : "Srsly Software",
+			"link" : "http://www.srslysoftware.com",
+			"title" : "Owner",
+			"startDate" : "2011",
+			"endDate" : "present",
+			"responsibilities" : "Custom software development, Oculus Rift hackery"
+		},{
+			"company" : "Bright Neighbor",
+			"link" : "http://www.brightneighbor.com",
+			"title" : "CTO",
+			"startDate" : "2012",
+			"endDate" : "present",
+			"responsibilities" : "Development and direction for collaborative consumption aggregation."
 		}
 	],
 	"speaking" : [ 
 		{
-			"title" : "Debate for Garbage Commission",
-			"location" : "Springfield Townhall",
-			"link" : "http://textiles.online.ncsu.edu/online/SilverlightPlayer/Default.aspx?peid=02c7fe6174654f96b78a6194d3dbbe9d1d"
+			"title" : "Virtual Worlds in the Workplace",
+			"location" : "Virtual Worlds Conference 2008",
+			"link" : "http://engage.wpengine.netdna-cdn.com/wp-content/uploads/2011/05/vwexpo-la-2008-program-sm.pdf"
+		},
+		{
+			"title" : "Virtual Worlds in the Workplace",
+			"location" : "Virtual Worlds London 2010",
+			"link" : "http://engage.wpengine.netdna-cdn.com/wp-content/uploads/2011/05/vwexpo-la-2008-program-sm.pdf"
 		}
+
 	],
 	"education" : [
 		{
-			"school" : "Springfield University",
-			"startDate" : "1993",
-			"endDate" : "1993",
-			"program" : "Nuclear Physics",
-			"achievements" : "Ran over dean with car, kidnapped Sir Oinks-a-lot."
+			"school" : "Trinity University",
+			"startDate" : "2001",
+			"endDate" : "2005",
+			"program" : "Computer Science",
 		}
 	]
 }
